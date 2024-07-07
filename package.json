@@ -1,8 +1,8 @@
 {
-  "name": "dqflex",
+  "name": "SmartMerge",
   "version": "1.0.0",
   "private": true,
-  "homepage": "YOUR-GITHUB-PAGES-URL",
+  "homepage": "http://mishi93999.github.io/fullstack-api",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "^4.9.1",
